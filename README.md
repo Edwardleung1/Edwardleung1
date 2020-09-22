@@ -8,3 +8,4 @@ I'm a versatile developer with interests in frontend as well as backend technolo
 - Learning in public on <a href="https://twitter.com/_eddieleung">Twitter</a> ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/edward-leung">Codepen</a> 🏓
 - Connect with me on <a href="https://www.linkedin.com/in/edward-leung-3a6165142/">LinkedIn</a> 💼
+- Building real projects on <a href="https://www.frontendmentor.io/profile/Edwardleung1">Frontend Mentor</a> 💻 
