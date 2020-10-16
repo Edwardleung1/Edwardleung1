@@ -5,6 +5,7 @@ I'm a self-taught web developer who is passionate about learning web development
 I'm a versatile developer with interests in frontend as well as backend technologies. Adaptable and self-motivated learner. Interested in new programming technologies, and continuous self-improvement.
 
 ## Find me around the web 🌎: 
+- Documenting my journey on <a href="https://instagram.com/_edwardleung">Instagram</a> 📝 
 - Learning in public on <a href="https://twitter.com/_eddieleung">Twitter</a> ✍🏾
 - Tinkering with interactions on <a href="https://codepen.io/edward-leung">Codepen</a> 🏓
 - Connect with me on <a href="https://www.linkedin.com/in/edward-leung-3a6165142/">LinkedIn</a> 💼
